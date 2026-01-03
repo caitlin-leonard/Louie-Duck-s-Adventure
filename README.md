@@ -21,3 +21,17 @@ Whether you’re in it for a quick play or trying to beat your high score, **Lou
 
 Can you keep Louie hopping?
 
+## 🌐 Web Deployment (pygbag)
+
+To build the web version of **Louie Duck Adventure**:
+
+```bash
+# 1. Go to the project folder
+cd /Users/caitlinleonard/PycharmProjects/giraffe/pythonProject/duck_jumping_game
+
+# 2. Build the web version with pygbag
+pygbag --build main.py
+
+# 3. Create a ZIP of the web build
+cd build/web
+zip -r louie_duck_adventure.zip .
