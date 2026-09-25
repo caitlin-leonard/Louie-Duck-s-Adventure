@@ -2,6 +2,8 @@
 
 # 🦆 Louie Duck's Adventure
 
+![Description](screenshots/image.png)
+
 Join Louie the duck in his splashy, silly, and surprisingly challenging pond-hopping quest!
 
 In this reflex-based jumping game, you’ll help Louie leap across lily pads that move endlessly across the screen. Miss a pad and it’s a one-way trip into the water! Time your jumps carefully and see how long you can keep Louie afloat.
